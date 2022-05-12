@@ -289,7 +289,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: 这不是林克阁下吗。
+      - text: 这不是林可阁下吗。
       - control:
           kind: pause
           length: short
@@ -409,7 +409,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: 话说回来，林克阁下……
+      - text: 话说回来，林可阁下……
       - control:
           kind: pause
           length: short
@@ -487,7 +487,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n谢谢您！林克阁下！！\n虽然只是一点小心意……"
+      - text: "\n谢谢您！林可阁下！！\n虽然只是一点小心意……"
       - control:
           kind: pause
           length: short
@@ -585,7 +585,7 @@ entries:
           unknown:
             - 10
             - 8
-      - text: 林克阁下！！
+      - text: 林可阁下！！
       - control:
           kind: pause
           length: longer
@@ -667,7 +667,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: 这不是林克阁下吗。
+      - text: 这不是林可阁下吗。
       - control:
           kind: pause
           length: short

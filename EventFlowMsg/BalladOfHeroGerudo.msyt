@@ -359,7 +359,7 @@ entries:
           unknown:
             - 5
             - 1
-      - text: ……林克，
+      - text: ……林可，
       - control:
           kind: pause
           length: short
@@ -566,7 +566,7 @@ entries:
           unknown:
             - 4
             - 0
-      - text: "林克……\n莫非你打算接受与"
+      - text: "林可……\n莫非你打算接受与"
       - control:
           kind: set_colour
           colour: blue
@@ -623,7 +623,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: long
@@ -698,7 +698,7 @@ entries:
           unknown:
             - 6
             - 16
-      - text: 林克……
+      - text: 林可……
       - control:
           kind: pause
           length: long

@@ -394,7 +394,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n\n林克先生对吧？"
+      - text: "\n\n林可先生对吧？"
       - control:
           kind: single_choice
           label: 7
@@ -670,7 +670,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "唯有这件事\n想让林克先生知道……\n其实"
+      - text: "唯有这件事\n想让林可先生知道……\n其实"
       - control:
           kind: set_colour
           colour: red
@@ -807,7 +807,7 @@ entries:
           unknown:
             - 1
             - 0
-      - text: 不过，幸好它的持有者是林克先生！
+      - text: 不过，幸好它的持有者是林可先生！
       - control:
           kind: pause
           length: longer
@@ -1076,7 +1076,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n名为林克……\n"
+      - text: "\n名为林可……\n"
       - control:
           kind: sound
           unknown:
@@ -1092,7 +1092,7 @@ entries:
           unknown:
             - 6
             - 1
-      - text: 林克先生
+      - text: 林可先生
       - control:
           kind: pause
           length: short
@@ -1492,7 +1492,7 @@ entries:
           unknown:
             - 6
             - 1
-      - text: 那么，林克先生持有的
+      - text: 那么，林可先生持有的
       - control:
           kind: set_colour
           colour: red
@@ -1586,7 +1586,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 林克先生，让您久等了。
+      - text: 林可先生，让您久等了。
       - control:
           kind: pause
           length: longer
@@ -1622,7 +1622,7 @@ entries:
       - control:
           kind: set_colour
           colour: blue
-      - text: 林克先生，
+      - text: 林可先生，
       - control:
           kind: pause
           length: longer
@@ -1719,7 +1719,7 @@ entries:
           unknown:
             - 11
             - 1
-      - text: 林克先生……
+      - text: 林可先生……
       - control:
           kind: pause
           length: short
@@ -1889,7 +1889,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n再新增进林克先生的"
+      - text: "\n再新增进林可先生的"
       - control:
           kind: set_colour
           colour: blue
@@ -2140,7 +2140,7 @@ entries:
           unknown:
             - 10
             - 0
-      - text: 林克先生！
+      - text: 林可先生！
       - control:
           kind: pause
           length: longer
@@ -2751,7 +2751,7 @@ entries:
           unknown:
             - 6
             - 0
-      - text: 林克先生，您居然搜集了所有的
+      - text: 林可先生，您居然搜集了所有的
       - control:
           kind: set_colour
           colour: blue
@@ -2849,7 +2849,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 林克先生……
+      - text: 林可先生……
   talk90:
     attributes: Npc_AncientAssistant001
     contents:
@@ -3129,7 +3129,7 @@ entries:
   talk98:
     attributes: Npc_AncientAssistant001
     contents:
-      - text: 林克先生，
+      - text: 林可先生，
       - control:
           kind: pause
           length: short
