@@ -155,7 +155,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 大哥哥你自己过去吧，啾♪
+      - text: 大姐姐你自己过去吧，啾♪
   talk50:
     attributes: Npc_HighMountain003
     contents:
@@ -518,7 +518,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: "谢谢大哥哥帮忙，\n让桃虹知道白鸟的重要东西是什么了啾！\n"
+      - text: "谢谢大姐姐帮忙，\n让桃虹知道白鸟的重要东西是什么了啾！\n"
       - control:
           kind: sound
           unknown:
