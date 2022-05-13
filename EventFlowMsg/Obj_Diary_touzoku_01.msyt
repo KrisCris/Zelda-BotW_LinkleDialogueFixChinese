@@ -79,7 +79,7 @@ entries:
   Diary_03:
     attributes: Obj_Diary_touzoku_01
     contents:
-      - text: "憧憬精灵的男子绿衣，\n藏于"
+      - text: "憧憬精灵的女子绿衣，\n藏于"
       - control:
           kind: set_colour
           colour: red

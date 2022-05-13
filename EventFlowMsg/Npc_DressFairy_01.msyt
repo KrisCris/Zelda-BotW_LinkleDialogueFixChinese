@@ -52,7 +52,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n不过纤瘦的男子也是我的type呢。"
+      - text: "\n不过纤瘦的女子也是我的type呢。"
   Revival00_1:
     attributes: Npc_DressFairy_01
     contents:

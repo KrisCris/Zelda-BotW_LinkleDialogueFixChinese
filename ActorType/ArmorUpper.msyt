@@ -460,7 +460,7 @@ entries:
       - text: 幻影铠甲
   Armor_174_Upper_Desc:
     contents:
-      - text: "向往成为精灵的男子所爱穿的衣服。\n好像对于那个男子来说，绿色是精灵的象征。\n貌似这样的物品并非轻易就能得到。"
+      - text: "向往成为精灵的女子所爱穿的衣服。\n好像对于那个女子来说，绿色是精灵的象征。\n貌似这样的物品并非轻易就能得到。"
   Armor_174_Upper_Name:
     contents:
       - text: 汀空的衣服
