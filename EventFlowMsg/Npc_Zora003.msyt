@@ -168,7 +168,7 @@ entries:
       - control:
           kind: pause
           frames: 20
-      - text: "\n你是一个好男人卓哟！"
+      - text: "\n你是一个好女孩卓哟！"
   talk06:
     attributes: Npc_Zora003
     contents:
