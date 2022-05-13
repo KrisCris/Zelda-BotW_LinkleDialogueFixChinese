@@ -2053,7 +2053,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n男子汉，一言既出驷马难追哟？"
+      - text: "\n一言既出驷马难追哟？"
       - control:
           kind: choice
           choice_labels:
