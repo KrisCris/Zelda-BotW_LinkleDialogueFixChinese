@@ -2622,7 +2622,7 @@ entries:
           unknown:
             - 11
             - 1
-      - text: ……小哥你该不会是……
+      - text: ……小姐姐你该不会是……
       - control:
           kind: pause
           length: longer
@@ -2649,7 +2649,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 虽然小哥是我喜欢的型……
+      - text: 虽然小姐姐是我喜欢的型……
       - control:
           kind: pause
           length: short
