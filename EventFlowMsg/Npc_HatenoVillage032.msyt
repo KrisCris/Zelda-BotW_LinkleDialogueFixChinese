@@ -1686,7 +1686,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "太有男子气概了！\n帮你装了一个卖剩的"
+      - text: "太有勇者气概了！\n帮你装了一个卖剩的"
       - control:
           kind: set_colour
           colour: blue
@@ -1821,7 +1821,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 拿出你身体里的男子气概！
+      - text: 拿出你身体里的勇者气概！
   talk49:
     attributes: Npc_HatenoVillage032
     contents:
@@ -2074,7 +2074,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: 真有男子气概！
+      - text: 真有勇者气概！
   talk60:
     attributes: ""
     contents:

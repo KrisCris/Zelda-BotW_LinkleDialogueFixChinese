@@ -147,7 +147,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n拿出男子气概"
+      - text: "\n拿出勇者气概"
       - control:
           kind: pause
           length: long

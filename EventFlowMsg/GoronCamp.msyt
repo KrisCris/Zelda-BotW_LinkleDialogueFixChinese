@@ -512,7 +512,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 太有男子气概了鼓咯……！
+      - text: 太有勇者气概了鼓咯……！
       - control:
           kind: pause
           length: short
