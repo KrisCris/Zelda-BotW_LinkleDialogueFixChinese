@@ -5,3 +5,5 @@
 - 基础中文翻译使用的是我[另外一个项目](https://github.com/KrisCris/Zelda-BotW_ChineseLanguagePack)维护的中文包（NS文本）。
 
 - Help Wanted!! 欢迎提交PR!
+
+- 请使用release里的链接，不要直接转载
