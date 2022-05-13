@@ -247,7 +247,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n松达先生好像有话要跟小姐姐儿讲。"
+      - text: "\n松达先生好像有话要跟小姐姐讲。"
   talk21:
     attributes: Npc_UMiiVillage030
     contents:
@@ -256,7 +256,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 松达先生好像有话要跟小姐姐儿讲。
+      - text: 松达先生好像有话要跟小姐姐讲。
   talk22:
     attributes: Npc_UMiiVillage030
     contents:
@@ -282,7 +282,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n在建立这座村子时曾受到小姐姐儿不少帮忙，\n因此非常感谢你呢。\n\n"
+      - text: "\n在建立这座村子时曾受到小姐姐不少帮忙，\n因此非常感谢你呢。\n\n"
       - control:
           kind: sound
           unknown:
