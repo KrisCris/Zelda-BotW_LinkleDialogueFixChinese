@@ -467,7 +467,7 @@ entries:
           unknown:
             - 0
             - 9
-      - text: "好好好，小偷先生。\n\n顺带一提，我身上"
+      - text: "好好好，小偷小姐。\n\n顺带一提，我身上"
       - control:
           kind: pause
           length: short
@@ -617,7 +617,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 嗨，小偷先生。
+      - text: 嗨，小偷小姐。
   talk28:
     attributes: Npc_HatenoVillage017
     contents:

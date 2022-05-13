@@ -64,7 +64,7 @@ entries:
           unknown:
             - 4
             - 19
-      - text: "哎呀……抱歉！\n刚才那句话不是对旅行者先生说的。"
+      - text: "哎呀……抱歉！\n刚才那句话不是对旅行者小姐说的。"
   Npc_HighMountain036_003:
     attributes: Npc_HighMountain036
     contents:
