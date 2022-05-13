@@ -404,7 +404,7 @@ entries:
           unknown:
             - 1
             - 10
-      - text: "你是男子汉鼓咯！男子汉中的男子汉鼓咯！\n太出色了鼓咯！！"
+      - text: "你是勇者鼓咯！勇者中的勇者鼓咯！\n太出色了鼓咯！！"
   Event_S2_002_03_01:
     attributes: Npc_Gaman03
     contents:
@@ -1145,7 +1145,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n你有耐火装备鼓咯？\n男子汉不能依赖那种东西鼓咯！"
+      - text: "\n你有耐火装备鼓咯？\n勇者不能依赖那种东西鼓咯！"
       - control:
           kind: pause
           length: short
@@ -1182,7 +1182,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: 是测试男子汉的试练鼓咯！
+      - text: 是测试勇者的试练鼓咯！
       - control:
           kind: pause
           length: short

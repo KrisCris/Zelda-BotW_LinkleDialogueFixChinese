@@ -283,7 +283,7 @@ entries:
           unknown:
             - 1
             - 10
-      - text: 我说你呀，这才是男子汉嘛！
+      - text: 我说你呀，这才是勇者嘛！
       - control:
           kind: pause
           length: long

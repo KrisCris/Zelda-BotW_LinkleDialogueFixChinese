@@ -2473,7 +2473,7 @@ entries:
       - control:
           kind: pause
           frames: 20
-      - text: "\n你果然和我想象中的男子汉一样卓！\n这样一来，"
+      - text: "\n你果然和我想象中的勇者一样卓！\n这样一来，"
       - control:
           kind: set_colour
           colour: blue

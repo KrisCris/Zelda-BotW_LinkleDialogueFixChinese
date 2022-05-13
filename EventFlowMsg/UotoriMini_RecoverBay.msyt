@@ -202,7 +202,7 @@ entries:
           unknown:
             - 7
             - 11
-      - text: 这才像个男子汉！
+      - text: 这才像个勇者！
       - control:
           kind: pause
           length: short

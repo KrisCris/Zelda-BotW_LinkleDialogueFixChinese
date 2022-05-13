@@ -1455,7 +1455,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "既然如此，快去吧。\n\n你可是足迹遍布全世界的男子汉，"
+      - text: "既然如此，快去吧。\n\n你可是足迹遍布全世界的勇者，"
       - control:
           kind: pause
           length: longer

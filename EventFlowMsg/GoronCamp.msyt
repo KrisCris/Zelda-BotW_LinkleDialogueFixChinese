@@ -69,7 +69,7 @@ entries:
           zero:
             four:
               field_1: 0
-      - text: 是培养独当一面男子汉的修行场鼓咯！
+      - text: 是培养独当一面勇者的修行场鼓咯！
       - control:
           kind: choice
           choice_labels:
@@ -479,7 +479,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "真是个男子汉鼓咯……\n啊啊……"
+      - text: "真是个勇者鼓咯……\n啊啊……"
       - control:
           kind: pause
           length: short
@@ -1075,7 +1075,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n是培养独当一面男子汉的修行场鼓咯！\n如果你能"
+      - text: "\n是培养独当一面勇者的修行场鼓咯！\n如果你能"
       - control:
           kind: set_colour
           colour: red
@@ -1387,7 +1387,7 @@ entries:
       - text: 大哥
       - control:
           kind: reset_colour
-      - text: "聊聊，\n成为独当一面的男子汉鼓咯！"
+      - text: "聊聊，\n成为独当一面的勇者鼓咯！"
   Talk_60:
     attributes: Npc_Goron_Camp003
     contents:
@@ -1718,7 +1718,7 @@ entries:
       - text: 大哥
       - control:
           kind: reset_colour
-      - text: "聊聊，\n成为独当一面的男子汉鼓咯！"
+      - text: "聊聊，\n成为独当一面的勇者鼓咯！"
   Talk_80:
     attributes: Npc_Goron_Camp003
     contents:
