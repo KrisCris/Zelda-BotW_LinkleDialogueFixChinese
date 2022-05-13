@@ -1935,7 +1935,7 @@ entries:
       - control:
           kind: pause
           frames: 10
-      - text: "\n交给自己未来丈夫的定情信物！\n"
+      - text: "\n交给自己未来伴侣的定情信物！\n"
       - control:
           kind: sound
           unknown:

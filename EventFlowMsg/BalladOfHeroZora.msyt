@@ -1450,11 +1450,11 @@ entries:
           unknown:
             - 11
             - 1
-      - text: 搞不准你会成为王姐的丈夫……
+      - text: 搞不准你会成为王姐的伴侣……
       - control:
           kind: pause
           length: long
-      - text: "\n也就是我的姐夫……\n……"
+      - text: "\n也就是我的姐姐……\n……"
       - control:
           kind: pause
           frames: 60
