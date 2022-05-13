@@ -40,7 +40,7 @@ entries:
       - control:
           kind: set_colour
           colour: grey
-      - text: 像你这么棒的男人……
+      - text: 像你这么棒的女孩……
       - control:
           kind: pause
           length: long
@@ -100,7 +100,7 @@ entries:
       - control:
           kind: text_size
           percent: 80
-      - text: 像你这么棒的男人……
+      - text: 像你这么棒的女孩……
       - control:
           kind: pause
           length: long

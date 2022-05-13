@@ -34,7 +34,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: "中\n漂亮撑下来的真男人！\n为了让你变得更强，\n接下来还有其他训练鼓咯！\n我会在"
+      - text: "中\n漂亮撑下来的真女孩！\n为了让你变得更强，\n接下来还有其他训练鼓咯！\n我会在"
       - control:
           kind: set_colour
           colour: blue

@@ -252,7 +252,7 @@ entries:
       - control:
           kind: text_size
           percent: 125
-      - text: 啊……是男人！
+      - text: 啊……是女孩！
       - control:
           kind: pause
           length: longer
@@ -279,7 +279,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "我几乎没有和\n年轻男人说过话……"
+      - text: "我几乎没有和\n年轻女孩说过话……"
       - control:
           kind: pause
           length: longer

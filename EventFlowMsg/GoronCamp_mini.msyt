@@ -399,7 +399,7 @@ entries:
           zero:
             four:
               field_1: 0
-      - text: "没想到你竟然能通过这么严苛的训练！\n不愧是我看中的男人鼓咯！"
+      - text: "没想到你竟然能通过这么严苛的训练！\n不愧是我看中的女孩鼓咯！"
   Talk_15:
     attributes: Npc_Goron_Camp001
     contents:

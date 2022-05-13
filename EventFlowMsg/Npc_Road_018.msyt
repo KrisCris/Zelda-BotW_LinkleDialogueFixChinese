@@ -93,7 +93,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 你毕竟是男人，
+      - text: 你毕竟是女孩，
       - control:
           kind: pause
           length: short
@@ -130,7 +130,7 @@ entries:
           unknown:
             - 0
             - 4
-      - text: 即使是男人，要是知道宝石能以天价卖出……
+      - text: 即使是女孩，要是知道宝石能以天价卖出……
       - control:
           kind: pause
           length: longer

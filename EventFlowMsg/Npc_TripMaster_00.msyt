@@ -1198,7 +1198,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: "哇哦！非常感谢！\n我果然没看错这个男人！！\n"
+      - text: "哇哦！非常感谢！\n我果然没看错这个女孩！！\n"
       - control:
           kind: sound
           unknown:

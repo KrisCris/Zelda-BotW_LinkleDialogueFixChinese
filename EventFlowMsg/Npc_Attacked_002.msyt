@@ -69,7 +69,7 @@ entries:
           unknown:
             - 7
             - 10
-      - text: "像我们这样顶天立地的大男人\n去了那里肯定会大受欢迎！\n"
+      - text: "像我们这样顶天立地的大女孩\n去了那里肯定会大受欢迎！\n"
       - control:
           kind: sound
           unknown:

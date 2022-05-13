@@ -53,7 +53,7 @@ entries:
       - text: 禁止男性进入
       - control:
           kind: reset_colour
-      - text: "，\n为什么老是有男人在这闲晃……\n快点回去吧！"
+      - text: "，\n为什么老是有人在这闲晃……\n快点回去吧！"
   Npc_oasis023_004:
     attributes: Npc_oasis023
     contents:

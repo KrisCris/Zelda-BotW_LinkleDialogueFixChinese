@@ -398,7 +398,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 来吧，是男人怎能在这里停手！
+      - text: 来吧，是女孩怎能在这里停手！
       - control:
           kind: pause
           length: long

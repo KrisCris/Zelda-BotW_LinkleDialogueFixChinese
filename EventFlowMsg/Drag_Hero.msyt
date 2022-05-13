@@ -1272,7 +1272,7 @@ entries:
       - text: 大美女
       - control:
           kind: reset_colour
-      - text: "呢。\n穿上这套衣服的话，\n这一带就没人会认为你是个男人！"
+      - text: "呢。\n穿上这套衣服的话，\n这一带就都会认为你是个女孩！"
       - control:
           kind: pause
           length: longer

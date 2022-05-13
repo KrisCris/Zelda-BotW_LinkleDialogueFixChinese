@@ -702,7 +702,7 @@ entries:
           unknown:
             - 6
             - 1
-      - text: 既然你是男人，
+      - text: 既然你是女孩，
       - control:
           kind: pause
           length: short

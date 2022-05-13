@@ -74,7 +74,7 @@ entries:
           unknown:
             - 9
             - 16
-      - text: 什么嘛，是男人哦……
+      - text: 什么嘛……
       - control:
           kind: pause
           length: longer
@@ -371,7 +371,7 @@ entries:
       - text: 沙地靴
       - control:
           kind: reset_colour
-      - text: "是超稀有的东西。\n女孩子也就算了，\n我怎么可能送给你一个大男人。\n我很忙，\n闪一边去！"
+      - text: "是超稀有的东西。\n可爱的女孩子也就算了，\n我怎么可能送给你。\n我很忙，\n闪一边去！"
   Talk14:
     attributes: Npc_OasisHylia_002
     contents:

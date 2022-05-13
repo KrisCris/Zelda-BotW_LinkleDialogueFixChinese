@@ -1140,7 +1140,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: 的男人啊！来得正好鼓咯！
+      - text: 的女孩啊！来得正好鼓咯！
       - control:
           kind: pause
           length: short
@@ -1157,7 +1157,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 是让男人更上一层楼的修行场鼓咯！
+      - text: 是让女孩更上一层楼的修行场鼓咯！
       - control:
           kind: choice
           choice_labels:
@@ -1205,7 +1205,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: "的男人……\n"
+      - text: "的女孩……\n"
       - control:
           kind: sound
           unknown:
@@ -1276,7 +1276,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: 的男人！
+      - text: 的女孩！
       - control:
           kind: pause
           length: short
@@ -1380,7 +1380,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: "的男人！\n能在这里相遇，一定是某种指引！\n欢迎来到鼓隆族的训练场鼓咯！\n去找悬崖上的"
+      - text: "的女孩！\n能在这里相遇，一定是某种指引！\n欢迎来到鼓隆族的训练场鼓咯！\n去找悬崖上的"
       - control:
           kind: set_colour
           colour: blue
@@ -1419,7 +1419,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: 男人……
+      - text: 女孩……
       - control:
           kind: pause
           length: short
@@ -1473,7 +1473,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: 的男人！
+      - text: 的女孩！
       - control:
           kind: pause
           length: short
@@ -1511,7 +1511,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 是让男人更上一层楼的修行场鼓咯！
+      - text: 是让女孩更上一层楼的修行场鼓咯！
       - control:
           kind: choice
           choice_labels:
@@ -1558,7 +1558,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: "都无法通过的男人……\n"
+      - text: "都无法通过的女孩……\n"
       - control:
           kind: sound
           unknown:
@@ -1629,7 +1629,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: 的男人！
+      - text: 的女孩！
       - control:
           kind: pause
           length: short
@@ -1704,7 +1704,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: "的男人！\n为了通过"
+      - text: "的女孩！\n为了通过"
       - control:
           kind: set_colour
           colour: red
@@ -1754,7 +1754,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "男人……\n不过……"
+      - text: "女孩……\n不过……"
       - control:
           kind: pause
           length: short

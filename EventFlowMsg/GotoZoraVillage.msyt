@@ -2323,7 +2323,7 @@ entries:
       - control:
           kind: pause
           frames: 20
-      - text: "\n散发着强大气息的男人！\n现在，由于"
+      - text: "\n散发着强大气息的女孩！\n现在，由于"
       - control:
           kind: set_colour
           colour: blue

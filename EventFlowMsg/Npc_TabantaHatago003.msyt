@@ -47,7 +47,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "对吧～！\n那可是男人的浪漫呢！\n听说那剑发出的光芒，\n可是能将任何怪物都扫荡一空！\n"
+      - text: "对吧～！\n那可是浪漫呢！\n听说那剑发出的光芒，\n可是能将任何怪物都扫荡一空！\n"
       - control:
           kind: sound
           unknown:
@@ -131,7 +131,7 @@ entries:
           unknown:
             - 7
             - 0
-      - text: "对吧～！\n那可是男人的浪漫呢！\n听说那剑放出的光芒，\n可是能将任何怪物都扫荡一空！\n"
+      - text: "对吧～！\n那可是浪漫呢！\n听说那剑放出的光芒，\n可是能将任何怪物都扫荡一空！\n"
       - control:
           kind: sound
           unknown:

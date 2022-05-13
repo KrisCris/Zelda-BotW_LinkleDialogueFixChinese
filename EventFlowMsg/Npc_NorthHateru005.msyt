@@ -63,11 +63,11 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 什么嘛……
+      - text: ……！
       - control:
           kind: pause
           length: short
-      - text: "原来是男的！\n\n在这间驿站只遇得到男人呢……"
+      - text: "居然是女孩！\n\n我还以为这间驿站只遇得到男人呢……"
       - control:
           kind: choice
           choice_labels:
@@ -172,7 +172,7 @@ entries:
           unknown:
             - 3
             - 12
-      - text: "这间驿站只有男人，实在让人烦闷的……\n\n正想说最近有位卓拉族过来了，"
+      - text: "这间驿站总是只有男人，实在让人烦闷的……\n\n正想说最近有位卓拉族过来了，"
       - control:
           kind: pause
           length: short
@@ -244,14 +244,14 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n不是你，就是"
+      - text: "\n不是"
       - control:
           kind: set_colour
           colour: red
       - text: 卓拉族的王子
       - control:
           kind: reset_colour
-      - text: "……\n来的净是些男人……"
+      - text: "……\n就是来的净是些男人……"
       - control:
           kind: choice
           choice_labels:

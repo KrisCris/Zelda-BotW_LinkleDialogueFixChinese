@@ -204,7 +204,7 @@ entries:
       - text: 比耐力
       - control:
           kind: reset_colour
-      - text: 挑战的男人啊，来得好鼓咯！
+      - text: 挑战的女孩啊，来得好鼓咯！
   Npc_Gaman01_DLC2nd_Talk04:
     attributes: Npc_Gaman01_DLC2nd
     contents:
@@ -277,7 +277,7 @@ entries:
       - text: 毅力崖
       - control:
           kind: reset_colour
-      - text: "训练，\n但全都半途而废的男人！"
+      - text: "训练，\n但全都半途而废的女孩！"
   Npc_Gaman01_DLC2nd_Talk06:
     attributes: Npc_Gaman01_DLC2nd
     contents:
@@ -342,7 +342,7 @@ entries:
       - text: 毅力崖
       - control:
           kind: reset_colour
-      - text: 训练的男人！
+      - text: 训练的女孩！
   Npc_Gaman01_DLC2nd_Talk08:
     attributes: Npc_Gaman01_DLC2nd
     contents:

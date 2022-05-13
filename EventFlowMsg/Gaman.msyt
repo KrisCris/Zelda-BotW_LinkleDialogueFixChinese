@@ -315,7 +315,7 @@ entries:
           unknown:
             - 1
             - 205
-      - text: 无敌的男人鼓咯！
+      - text: 无敌的女孩鼓咯！
   Event_S2_001_03_01:
     attributes: Npc_Gaman03
     contents:
@@ -495,7 +495,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: 你是之前来过的男人！
+      - text: 你是之前来过的女孩！
   Npc_Gaman01_R_004:
     attributes: Npc_Gaman01
     contents:
@@ -665,7 +665,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "这是为了成为强悍男人的训练鼓咯！\n我们正在比谁更"
+      - text: "这是为了成为强悍女孩的训练鼓咯！\n我们正在比谁更"
       - control:
           kind: set_colour
           colour: red
@@ -941,7 +941,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "为了成为更强悍的男人，\n你要接受挑战吗鼓咯！？\n现在要比谁更"
+      - text: "为了成为更强悍的女孩，\n你要接受挑战吗鼓咯！？\n现在要比谁更"
       - control:
           kind: set_colour
           colour: red
@@ -1033,7 +1033,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "嗯！？你是正在接受\n毅力崖训练的男人！\n这里是老祖宗代代相传的修行场所鼓咯！\n我们正在这里"
+      - text: "嗯！？你是正在接受\n毅力崖训练的女孩！\n这里是老祖宗代代相传的修行场所鼓咯！\n我们正在这里"
       - control:
           kind: set_colour
           colour: red
@@ -1066,7 +1066,7 @@ entries:
       - control:
           kind: text_size
           percent: 100
-      - text: "毅力崖挑战到一半就放弃的男人，\n能否"
+      - text: "毅力崖挑战到一半就放弃的女孩，\n能否"
       - control:
           kind: set_colour
           colour: red
