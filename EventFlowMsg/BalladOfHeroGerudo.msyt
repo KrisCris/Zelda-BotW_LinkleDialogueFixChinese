@@ -144,7 +144,7 @@ entries:
           unknown:
             - 3
             - 0
-      - text: "小哥，要是事迹败露，\n他们会追你到天涯海角的！"
+      - text: "小姐，要是事迹败露，\n他们会追你到天涯海角的！"
   Npc_Attacked_006_DLC2nd_SD_200:
     attributes: Npc_Attacked_006_DLC2nd
     contents:
@@ -1723,7 +1723,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: "有事吗？这位小哥……\n你也看到了，人家正忙着取材啦！"
+      - text: "有事吗？这位小姐……\n你也看到了，人家正忙着取材啦！"
       - control:
           kind: single_choice
           label: 10
@@ -1735,7 +1735,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: "这位小哥……\n\n难道你不认识人家？"
+      - text: "这位小姐……\n\n难道你不认识人家？"
   Npc_oasis037_SD_210:
     attributes: Npc_oasis037
     contents:
@@ -1832,7 +1832,7 @@ entries:
           unknown:
             - 7
             - 8
-      - text: "哦哦，小哥！人家都看见了！\n你打倒了那头"
+      - text: "哦哦，小姐！人家都看见了！\n你打倒了那头"
       - control:
           kind: set_colour
           colour: blue
@@ -1910,7 +1910,7 @@ entries:
           unknown:
             - 7
             - 8
-      - text: "小哥！人家都看见了！\n你打倒了那头"
+      - text: "小姐！人家都看见了！\n你打倒了那头"
       - control:
           kind: set_colour
           colour: blue
@@ -1937,7 +1937,7 @@ entries:
       - text: 东格鲁德
       - control:
           kind: reset_colour
-      - text: "遇见的小哥吧？\n……啊，原来如此。"
+      - text: "遇见的小姐吧？\n……啊，原来如此。"
       - control:
           kind: pause
           length: long

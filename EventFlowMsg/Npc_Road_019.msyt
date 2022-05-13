@@ -261,7 +261,7 @@ entries:
           unknown:
             - 9
             - 205
-      - text: 小哥你真是个好客人。
+      - text: 小姐你真是个好客人。
   Com_Talk_11d:
     attributes: ""
     contents:
