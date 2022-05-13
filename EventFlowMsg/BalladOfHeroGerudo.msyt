@@ -1852,7 +1852,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: " 真可惜。\n\n你实在太帅气了，\n女性读者一定会爆增……\n"
+      - text: " 真可惜。\n\n你实在太可爱了，\n男性读者一定会爆增……\n"
       - control:
           kind: sound
           unknown:
@@ -1878,7 +1878,7 @@ entries:
           unknown:
             - 5
             - 16
-      - text: "你实在太帅气了， \n女性读者一定会爆增的说……\n"
+      - text: "你实在太可爱了， \n男性读者一定会爆增的说……\n"
       - control:
           kind: sound
           unknown:
