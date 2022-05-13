@@ -81,7 +81,7 @@ entries:
           unknown:
             - 0
             - 2
-      - text: 嗨～小弟！
+      - text: 嗨～小妹妹！
       - control:
           kind: pause
           length: long
@@ -99,7 +99,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n所以小弟，你也要加油啊！"
+      - text: "\n所以小妹妹，你也要加油啊！"
   MSG_Akka_00_1:
     attributes: Npc_Road_043
     contents:
@@ -149,7 +149,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: "小弟你也好好环游世界，\n多经历些充满刺激的相遇吧！"
+      - text: "小妹妹你也好好环游世界，\n多经历些充满刺激的相遇吧！"
   MSG_Akka_01_1:
     attributes: Npc_Road_043
     contents:
@@ -200,7 +200,7 @@ entries:
       - text: 海拉鲁城堡
       - control:
           kind: reset_colour
-      - text: "深处，似乎有珍奇的箭。\n若小弟磨练了本领，哪天打算前往城堡的话，"
+      - text: "深处，似乎有珍奇的箭。\n若小妹妹磨练了本领，哪天打算前往城堡的话，"
       - control:
           kind: pause
           length: short
@@ -213,7 +213,7 @@ entries:
           unknown:
             - 0
             - 2
-      - text: 若小弟磨练了本领，哪天打算前往城堡的话，
+      - text: 若小妹妹磨练了本领，哪天打算前往城堡的话，
       - control:
           kind: pause
           length: short
@@ -226,7 +226,7 @@ entries:
           unknown:
             - 0
             - 2
-      - text: "小弟，你用弓的本领如何啊？\n\n要用弓箭打败怪物时，原则就是瞄准头部。\n若对手是守护者，就瞄准眼睛吧。\n"
+      - text: "小妹妹，你用弓的本领如何啊？\n\n要用弓箭打败怪物时，原则就是瞄准头部。\n若对手是守护者，就瞄准眼睛吧。\n"
       - control:
           kind: sound
           unknown:
@@ -256,11 +256,11 @@ entries:
           unknown:
             - 0
             - 2
-      - text: 嗨～小弟！
+      - text: 嗨～小妹妹！
       - control:
           kind: pause
           length: short
-      - text: "\n小弟你曾遇过巨大的敌人吗？\n要战斗？还是要逃？"
+      - text: "\n小妹妹你曾遇过巨大的敌人吗？\n要战斗？还是要逃？"
       - control:
           kind: pause
           length: short
@@ -366,7 +366,7 @@ entries:
           unknown:
             - 0
             - 2
-      - text: 嗨～小弟！
+      - text: 嗨～小妹妹！
       - control:
           kind: pause
           length: short
@@ -429,11 +429,11 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "海利亚人的小弟！\n\n其他还有卓拉、鼓隆、格鲁德、利特……"
+      - text: "海利亚人的小妹妹！\n\n其他还有卓拉、鼓隆、格鲁德、利特……"
       - control:
           kind: pause
           length: long
-      - text: "\n在阿卡莱，能和各式各样的种族相遇。\n若小弟你是大地的冒险家，"
+      - text: "\n在阿卡莱，能和各式各样的种族相遇。\n若小妹妹你是大地的冒险家，"
       - control:
           kind: pause
           length: short
@@ -443,7 +443,7 @@ entries:
           unknown:
             - 1
             - 9
-      - text: 当然，对我来说小弟你太年轻了。
+      - text: 当然，对我来说小妹妹你太年轻了。
       - control:
           kind: pause
           length: long
@@ -460,7 +460,7 @@ entries:
       - control:
           kind: pause
           length: long
-      - text: "\n在阿卡莱，能和各式各样的种族相遇。\n若小弟你是大地的冒险家，"
+      - text: "\n在阿卡莱，能和各式各样的种族相遇。\n若小妹妹你是大地的冒险家，"
       - control:
           kind: pause
           length: short
@@ -473,7 +473,7 @@ entries:
           unknown:
             - 0
             - 2
-      - text: 嗨～小弟！
+      - text: 嗨～小妹妹！
       - control:
           kind: pause
           length: short
@@ -513,7 +513,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: 嗨～小弟！
+      - text: 嗨～小妹妹！
       - control:
           kind: pause
           length: short
@@ -569,7 +569,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n但你对我来说还是个小弟呢。\n"
+      - text: "\n但你对我来说还是个小妹妹呢。\n"
       - control:
           kind: sound
           unknown:
@@ -613,7 +613,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 托小弟的福才得救了啊！
+      - text: 托小妹妹的福才得救了啊！
       - control:
           kind: pause
           length: long
@@ -626,7 +626,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 小弟，你出乎意料地强悍呢！
+      - text: 小妹妹，你出乎意料地强悍呢！
       - control:
           kind: pause
           length: short
@@ -639,7 +639,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 小弟你帮了我一把呢！
+      - text: 小妹妹你帮了我一把呢！
       - control:
           kind: pause
           length: long
@@ -656,7 +656,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 小弟！
+      - text: 小妹妹！
       - control:
           kind: pause
           length: short
@@ -672,7 +672,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 小弟你是我的救命恩人啊！
+      - text: 小妹妹你是我的救命恩人啊！
       - control:
           kind: pause
           length: long
@@ -684,7 +684,7 @@ entries:
           unknown:
             - 1
             - 11
-      - text: 我对小弟真是非常敬佩啊！
+      - text: 我对小妹妹真是非常敬佩啊！
   Talk04:
     attributes: Npc_Road_043
     contents:
