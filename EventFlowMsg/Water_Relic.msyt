@@ -1996,7 +1996,7 @@ entries:
       - control:
           kind: pause
           frames: 10
-      - text: "\n他虽说是一名英杰，但和公主没有任何关系！"
+      - text: "\n她虽说是一名英杰，但和公主没有任何关系！"
   Npc_Zora004_R_008:
     attributes: Npc_Zora004
     contents:
@@ -2326,7 +2326,7 @@ entries:
           frames: 20
       - control:
           kind: reset_colour
-      - text: "\n就算是看到了这座米法大人的雕像他也……"
+      - text: "\n就算是看到了这座米法大人的雕像她也……"
   Npc_Zora004_S1_022:
     attributes: Npc_Zora004
     contents:
@@ -2817,7 +2817,7 @@ entries:
           unknown:
             - 1
             - 1
-      - text: 他一定会帮助我们，
+      - text: 她一定会帮助我们，
       - control:
           kind: pause
           frames: 10
@@ -2929,7 +2929,7 @@ entries:
       - control:
           kind: pause
           frames: 20
-      - text: "\n从他的身上，我仿佛看到了命运的安排。"
+      - text: "\n从她的身上，我仿佛看到了命运的安排。"
   Npc_ZoraB001_R_010:
     attributes: Npc_ZoraB001
     contents:
@@ -3280,7 +3280,7 @@ entries:
           frames: 20
       - control:
           kind: reset_colour
-      - text: "\n他肯定没问题的！！"
+      - text: "\n她肯定没问题的！！"
   Npc_ZoraB001_S1_009:
     attributes: Npc_ZoraB001
     contents:
