@@ -1917,7 +1917,7 @@ entries:
       - text: 卓拉铠甲
       - control:
           kind: reset_colour
-      - text: 交给他吗！？
+      - text: 交给她吗！？
       - control:
           kind: raw
           zero:
