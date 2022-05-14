@@ -1992,7 +1992,7 @@ entries:
           unknown:
             - 2
             - 1
-      - text: 您怎么可以把它交给这样的男人呢。
+      - text: 您怎么可以把它交给这样的人呢。
       - control:
           kind: pause
           frames: 10
