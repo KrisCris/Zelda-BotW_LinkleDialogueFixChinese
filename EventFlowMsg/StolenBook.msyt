@@ -1586,7 +1586,7 @@ entries:
       - control:
           kind: set_colour
           colour: grey
-      - text: 难不成这小伙子……发现我的秘密……
+      - text: 难不成这小妹妹……发现我的秘密……
       - control:
           kind: reset_colour
       - control:

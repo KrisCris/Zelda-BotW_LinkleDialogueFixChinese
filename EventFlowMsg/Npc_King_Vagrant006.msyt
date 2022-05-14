@@ -105,7 +105,7 @@ entries:
           unknown:
             - 0
             - 6
-      - text: "竟然输给我这个老人家，\n小伙子你还要多努力啊。"
+      - text: "竟然输给我这个老人家，\n小妹妹你还要多努力啊。"
       - control:
           kind: choice
           choice_labels:

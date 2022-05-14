@@ -230,7 +230,7 @@ entries:
           one:
             two:
               field_1: 0
-      - text: "这是一位前途有望的小伙子，\n很适合收下我的"
+      - text: "这是一位前途有望的小妹妹，\n很适合收下我的"
       - control:
           kind: set_colour
           colour: blue

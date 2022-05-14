@@ -82,7 +82,7 @@ entries:
           unknown:
             - 0
             - 0
-      - text: "天色整个暗下来了……\n走夜路很危险，小伙子你也要小心啊。"
+      - text: "天色整个暗下来了……\n走夜路很危险，小妹妹你也要小心啊。"
   Talk03:
     attributes: Npc_Kakariko008
     contents:
@@ -146,7 +146,7 @@ entries:
           unknown:
             - 4
             - 19
-      - text: "哎呀，小伙子。\n你看起来好像很累……\n天色已经很暗，小伙子也去休息如何？\n沿着下坡走就到旅馆了，希望还有空房。"
+      - text: "哎呀，小妹妹。\n你看起来好像很累……\n天色已经很暗，小妹妹也去休息如何？\n沿着下坡走就到旅馆了，希望还有空房。"
   Talk07:
     attributes: Npc_Kakariko008
     contents:
@@ -197,7 +197,7 @@ entries:
           unknown:
             - 11
             - 5
-      - text: 喂！小伙子……
+      - text: 喂！小妹妹……
       - control:
           kind: pause
           length: longer
