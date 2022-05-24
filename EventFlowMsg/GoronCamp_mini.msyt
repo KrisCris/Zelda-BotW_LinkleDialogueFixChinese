@@ -279,7 +279,7 @@ entries:
       - text: 100卢比
       - control:
           kind: reset_colour
-      - text: "鼓咯！\n对热血男儿而言，这个数字轻而易举鼓咯！\n如果卢比不够，就算在时限内抵达终点，\n一样算失去资格鼓咯！要注意鼓咯！\n那么……"
+      - text: "鼓咯！\n对热血女孩而言，这个数字轻而易举鼓咯！\n如果卢比不够，就算在时限内抵达终点，\n一样算失去资格鼓咯！要注意鼓咯！\n那么……"
       - control:
           kind: pause
           length: longer

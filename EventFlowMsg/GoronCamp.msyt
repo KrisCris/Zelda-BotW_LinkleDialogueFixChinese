@@ -162,7 +162,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n对热血男儿而言，这数字轻而易举鼓咯！\n"
+      - text: "\n对热血女孩而言，这数字轻而易举鼓咯！\n"
       - control:
           kind: sound
           unknown:

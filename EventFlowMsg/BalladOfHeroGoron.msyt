@@ -116,7 +116,7 @@ entries:
       - text: 达尔克尔大人
       - control:
           kind: reset_colour
-      - text: "那样强大的热血男儿，\n我们三兄弟就绝对不能退避三舍鼓咯！"
+      - text: "那样强大的热血女孩，\n我们三兄弟就绝对不能退避三舍鼓咯！"
   Npc_Gaman01_DLC2nd_Talk01:
     attributes: Npc_Gaman01_DLC2nd
     contents:

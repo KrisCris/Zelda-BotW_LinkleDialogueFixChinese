@@ -715,7 +715,7 @@ entries:
           unknown:
             - 10
             - 0
-      - text: 亏我们还认为你是热血男儿！
+      - text: 亏我们还认为你是热血女孩！
   Npc_Gaman02_R_006:
     attributes: Npc_Gaman02
     contents:
@@ -842,7 +842,7 @@ entries:
   Npc_Gaman03_R_004:
     attributes: Npc_Gaman03
     contents:
-      - text: 热血男儿吧鼓咯……
+      - text: 热血女孩吧鼓咯……
   Npc_Gaman03_R_005:
     attributes: Npc_Gaman03
     contents:
