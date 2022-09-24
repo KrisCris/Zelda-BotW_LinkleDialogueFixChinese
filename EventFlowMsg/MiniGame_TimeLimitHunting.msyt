@@ -130,7 +130,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 虽然不知道为什么是男孩你在运送……
+      - text: 虽然不知道为什么是女孩你在运送……
       - control:
           kind: pause
           length: short
@@ -371,7 +371,7 @@ entries:
           unknown:
             - 0
             - 1
-      - text: 你这男孩看来身手不错嘛。
+      - text: 你这女孩看来身手不错嘛。
       - control:
           kind: pause
           length: long
@@ -540,7 +540,7 @@ entries:
       - control:
           kind: pause
           length: short
-      - text: "\n男孩……"
+      - text: "\n女孩……"
       - control:
           kind: pause
           length: short
@@ -574,7 +574,7 @@ entries:
           unknown:
             - 1
             - 1
-      - text: 我早知道你是个能干的男孩，
+      - text: 我早知道你是个能干的女孩，
       - control:
           kind: pause
           length: short
@@ -608,7 +608,7 @@ entries:
       - control:
           kind: pause
           length: longer
-      - text: "\n要数这一带最强的猎鹿男孩！"
+      - text: "\n要数这一带最强的猎鹿女孩！"
   talk29:
     attributes: Npc_HatenoVillage016
     contents:
